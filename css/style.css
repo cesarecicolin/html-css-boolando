@@ -1,3 +1,5 @@
+/* RESET */
+
 *{
     margin: 0;
     padding: 0;
@@ -6,4 +8,39 @@
 
 img{
     max-width: 100%;
+}
+
+/* COOMON */
+.conteiner{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.wrapeer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    
+}
+
+a{
+   text-decoration: none;
+   margin: 0 10px;
+}
+
+/* header */
+
+.logo{
+    width: 200px;
+}
+
+header{
+    height: 80px;
+    background-color: orangered;
 }
