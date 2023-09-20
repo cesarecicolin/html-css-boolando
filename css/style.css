@@ -83,6 +83,9 @@ a {
     color: red;
 }
 
+.margin-top{
+    margin-top: 7rem;
+}
 
 /* header */
 
@@ -93,6 +96,11 @@ a {
 header {
     height: 80px;
     background-color: orangered;
+    z-index: 3;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
 /* MAIN */
