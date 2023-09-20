@@ -117,9 +117,7 @@ header {
    
 }
 
-.absolute-single{
-    left: 0px;
-}
+
 
 .absolute-sc {
     background-color: red;
@@ -129,6 +127,9 @@ header {
 .absolute-eco {
     background-color: green;
     left: 2rem;
+}
+.absolute-single{
+    left: 0px;
 }
 
 /* FOOTER */
