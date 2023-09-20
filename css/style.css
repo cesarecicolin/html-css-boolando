@@ -100,6 +100,7 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .col {
@@ -120,4 +121,21 @@ header {
 .absolute-eco {
     background-color: green;
     left: 2rem;
+}
+
+/* FOOTER */
+
+.bg-black{
+    background-color: #1a1a1a;
+    padding: 1rem;
+    margin-top: 4rem;
+}
+
+.col-fot{
+    /* height: 200px;
+    border: 1px solid white; */
+    color: white;
+}
+h4{
+    margin-bottom: .5rem;
 }
